@@ -1,0 +1,14 @@
+torch                 # install from pytorch.org matching your CUDA
+torchvision
+tqdm
+numpy
+opencv-python
+pyyaml
+sentence-transformers
+transformers
+scikit-learn
+scipy
+ultralytics           # YOLOv8 (用于候选框，也可替换)
+pillow
+lap                   # 匈牙利算法 / assignment (pip install lap)
+tensorboard
